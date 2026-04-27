@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` file tailored to the files you've shared. You can copy and paste this directly into your GitHub repository. 
-
-***
-
 # Modelling of Artificial Neural Networks
 
 This repository contains machine learning projects focused on building and tuning deep learning models. It demonstrates the practical implementation of an Artificial Neural Network (ANN) for tabular data classification and a Convolutional Neural Network (CNN) for image classification using Python and Keras.
